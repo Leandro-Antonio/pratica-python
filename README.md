@@ -1,2 +1,2 @@
 # pratica-python
-Pratica de exercícios em python
+Exercícios ensaios e testes em Python
